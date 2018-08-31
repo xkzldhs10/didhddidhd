@@ -24,7 +24,7 @@ background:url(.././images/oon.jpg);}
 
 #main_gnb>ul.right{float:right;}	          
 #main_gnb>ul.right:after{content:"";display:block;clear:both;}	          
-#main_gnb>ul.right>li{float:right;}	          
+         
 #main_gnb a{display:block;padding:10px 20px; color:white;font-weight:bold}	          
 #main_gnb a:hover{background-color:rosybrown;}  
 
